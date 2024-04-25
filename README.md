@@ -48,6 +48,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NathanWMartins/NathanWMartins/output/snake.svg" alt="Snake animation" />
-
 ###

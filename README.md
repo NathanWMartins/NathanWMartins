@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nathan Will Martins</h1>
 <h3 align="center">A passionate frontend and backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Clean Architeture**
-
-- 📫 How to reach me **nathanwillmartins@gmail.com**
+<div align="center">
+  <a href="https://github.com/CristopherMartarello">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NathanWMartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanWMartins&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
